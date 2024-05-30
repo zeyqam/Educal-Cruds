@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Educal-PB101.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Educal-PB101.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\css\\courses.css",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\author-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\author-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\author-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\banner-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\banner-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\banner-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\banner-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\blog-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\compass.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\compass.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\contact-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\contact-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\contact-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\contact-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\contact-shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-6-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\course12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\cta-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\discord.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\discord.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\dot-menu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dot-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\electric-guitar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\electric-guitar.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\events-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\events-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\graph.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\graph.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-circle-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-circle-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-circle-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-dot-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-dot-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1-dot.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-dot.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\hero-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\house.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\house.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\logo-text-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-text-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\page-title-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-title-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\page-title.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\paint.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\paint.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\tablet.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\teacher-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\images\\yellow-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\yellow-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Educal-PB101\\Educal-PB101\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Educal-PB101.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Educal-PB101.props",
+      "PackagePath": "build\\Educal-PB101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Educal-PB101.props",
+      "PackagePath": "buildMultiTargeting\\Educal-PB101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Educal-PB101.props",
+      "PackagePath": "buildTransitive\\Educal-PB101.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

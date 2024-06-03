@@ -44,7 +44,7 @@ namespace Educal_PB101.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("Educal_PB101.Models.Product", b =>
+            modelBuilder.Entity("Educal_PB101.Models.Course", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -61,11 +61,20 @@ namespace Educal_PB101.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("InstructorName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("LessonCount")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<double>("Rating")
+                        .HasColumnType("float");
 
                     b.Property<bool>("SoftDeleted")
                         .HasColumnType("bit");
@@ -74,10 +83,10 @@ namespace Educal_PB101.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Courses");
                 });
 
-            modelBuilder.Entity("Educal_PB101.Models.ProductImage", b =>
+            modelBuilder.Entity("Educal_PB101.Models.CourseImage", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -85,26 +94,26 @@ namespace Educal_PB101.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
                     b.Property<bool>("IsMain")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ProductId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("ProductId");
+                    b.HasIndex("CourseId");
 
-                    b.ToTable("ProductImages");
+                    b.ToTable("CourseImages");
                 });
 
-            modelBuilder.Entity("Educal_PB101.Models.Product", b =>
+            modelBuilder.Entity("Educal_PB101.Models.Course", b =>
                 {
                     b.HasOne("Educal_PB101.Models.Category", "Category")
-                        .WithMany("Products")
+                        .WithMany("Course")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -112,25 +121,25 @@ namespace Educal_PB101.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("Educal_PB101.Models.ProductImage", b =>
+            modelBuilder.Entity("Educal_PB101.Models.CourseImage", b =>
                 {
-                    b.HasOne("Educal_PB101.Models.Product", "Product")
-                        .WithMany("ProductImages")
-                        .HasForeignKey("ProductId")
+                    b.HasOne("Educal_PB101.Models.Course", "Course")
+                        .WithMany("CourseImages")
+                        .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Product");
+                    b.Navigation("Course");
                 });
 
             modelBuilder.Entity("Educal_PB101.Models.Category", b =>
                 {
-                    b.Navigation("Products");
+                    b.Navigation("Course");
                 });
 
-            modelBuilder.Entity("Educal_PB101.Models.Product", b =>
+            modelBuilder.Entity("Educal_PB101.Models.Course", b =>
                 {
-                    b.Navigation("ProductImages");
+                    b.Navigation("CourseImages");
                 });
 #pragma warning restore 612, 618
         }

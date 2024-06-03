@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@model HomeVM
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -64,11 +66,12 @@
                                     <span>Category</span>
                                 </a>
                                 <ul class="category_drop_down_menu drop_down_menu position-absolute">
-                                    <li><a href="#">English Learning</a></li>
-                                    <li><a href="#">Web Development</a></li>
-                                    <li><a href="#">Logo Design</a></li>
-                                    <li><a href="#">Motion Graphics</a></li>
-                                    <li><a href="#">Video Edition</a></li>
+                                    @foreach (var item in Model.Categories)
+                                    {
+                                        <li><a href="" data-id="@item.Id">@item.Name</a></li>
+                                    }
+                                    
+                                    
                                 </ul>
                             </li>
                         </ul>
